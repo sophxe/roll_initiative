@@ -8,7 +8,7 @@ Please note, the script does not determine tiebreakers with initiative modifiers
 
 To clone the repo, run:
 
-git clone sophxe/roll_initiative
+git clone https://github.com/sophxe/roll_initiative
 
 On Linux/Unix systems, to make the script executable, run:
 
