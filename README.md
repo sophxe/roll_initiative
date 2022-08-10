@@ -10,7 +10,12 @@ To clone the repo, run:
 
 git clone https://github.com/sophxe/roll_initiative
 
-On Linux/Unix systems,to make the script executable if it's not already, run:
+It can also simply be downloaded as a .zip file from the top-right.
+
+
+**Installation**
+
+On Linux/Unix systems, to make the script executable if it's not already, run:
 
 chmod +x roll_initiative.py
 
@@ -19,12 +24,13 @@ To run the script, in the terminal change into the directory you cloned the repo
 ./roll_initiative.py
 
 
+
 On Windows systems, Python 3 will need to be installed first, which can be downloaded from:
 
 https://www.python.org/downloads/windows/
 
-
-
-To run the script on Windows (from the command prompt, having changed into the directory you cloned the repo into):
+To run the script on Windows from the command prompt, having changed into the directory you cloned the repo into:
 
 roll_initiative.py
+
+You can also just unzip the .zip file and double click on roll_initiative.py once Python is installed if you prefer not to use the command prompt
